@@ -2,9 +2,8 @@ title: My First Blog
 author: Shivang-Dhimmar
 email: shivang3921dhimmar@gmail.com
 theme : minima
-description: > # this means to ignore newlines until "baseurl:"
-  Shivang Dhimmar First Blog.
 
-# social links
+description: > # this means to ignore newlines until "baseurl:"
+  Shivang Dhimmar First Blog
 
 show_excerpts: true # set to false to remove excerpts on the homepage
